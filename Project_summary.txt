@@ -1,0 +1,17 @@
+<Project>
+<project_title>
+<!-- In the next line type the title of your project -->
+STAR RATING PREDICTION USING SENTIMENT ANALYSIS OF AMAZON MOBILE PHONE DATASET
+</project_title>
+<project_abstract>
+<!-- copy the abstract from your project report and paste it below in the next line -->
+Amazon links customers with fantastic local businesses. In this article, we will concentrate on mobile phone brand reviews. We want to estimate a mobile phone's rating based on past information such as the title, and the Amazon user's feedback. We explore the data set made available by Kaggle. We will forecast the star(rating) of a review in this project. Logistic regression, Random Forest, SVM, Decision tree, ADA boosting, and naive Bayes model are used with sentiment analysis. After analyzing the performance of each model, the SVM algorithm was determined to be the best model for predicting ratings from reviews. In addition, we automated the model creation part in Python for computer efficiency which helps in saving time.
+
+</project_abstract>
+<keywords>
+<!-- In the next line type up to 6 keywords that describe your project (separate them by semicolons) -->
+Sentiment analysis; Amazon Mobile phone; Machine learning; predictive analysis; supervised learning; Data Science
+
+</keywords>
+
+</Project>
